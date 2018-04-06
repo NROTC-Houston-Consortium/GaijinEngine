@@ -1,0 +1,12 @@
+SDL 2.0 Changes
+
+Now #include<SDL2\...h>
+Now Other Linker Options -lSDL2_main, etc.
+
+No more SetVideoMode
+No more SDL_DisplayFormat, Replace by SDL_ConvertSurface(imageLoaded, backbuffer-format, 0);
+No more SDL_SRCCOLORKEY, replace by SDL_TRUE in SDL_SetColorKey
+No more SDL_SetCaption, replaced by SDL_SetWindowTitle(SDL_Window* window, const char* title);
+No more SDL_GetKeyState, replaced by SDL_GetKeyboardState
+No more SDLK_(key), replaced by SDL_SCANCODE_(key)
+No more SDL_WarpMouse, SDL_WarpMouseInWindow
