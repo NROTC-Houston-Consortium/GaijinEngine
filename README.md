@@ -4,6 +4,7 @@ Repository for all engine related code.
 Fold named Stuff: has important tools just in case.
   -PDF of Game Engine Architecture - helpful with parts of game engine architecture.
   
+Download BAMGP from http://www.delmarlearning.com/companions/content/1305110382/companionfiles/index.asp?isbn=1305110382
   -BAMGP Folder - houses code from Black Art of Multiplatform Game programming
     -Extras - hold SDL 2.0 source codes for all 12 chapters
     -SDL - holds neccsarry SDL files
