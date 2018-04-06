@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1377735400 source:c:\users\jazon yamamoto\desktop\jazon\books\sdl_game_programming\cd_files\files sdl 2.0\chapter_5\5_1_soundeffects\main.cpp
+	<SDL2\SDL.h>
+	<SDL2\SDL_mixer.h>
+
