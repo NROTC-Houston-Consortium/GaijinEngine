@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1371858767 source:c:\users\jazon yamamoto\desktop\jazon\books\sdl_game_programming\files\chapter_3\3_1_pixelplot\main.cpp
-	<SDL\SDL.h>
-	<cstdlib>
-
-1377727926 source:c:\users\jazon yamamoto\desktop\jazon\books\sdl_game_programming\cd_files\files sdl 2.0\chapter_3\3_1_pixelplot\main.cpp
-	<SDL2\SDL.h>
-	<cstdlib>
-
