@@ -1,0 +1,2 @@
+DLL
+Remeber to add .h, .dll and .a as well as connect .a to the linker
