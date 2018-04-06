@@ -1,5 +1,0 @@
-# depslib dependency file v1.0
-1378168844 source:c:\users\jazon yamamoto\desktop\jazon\projects\sdl_game_programming\cd_files\sdldvdv1_1\extras\bonus_chapter_demos\bonus_2_rendererprimitives\main.cpp
-	<SDL2/SDL.h>
-	<cstdlib>
-
