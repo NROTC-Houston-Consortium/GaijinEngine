@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1355819272 source:c:\users\toshiba\desktop\book projects\book1\files\chapter_2\2_1_window\main.cpp
+	<SDL\SDL.h>
+
+1377730207 source:c:\users\jazon yamamoto\desktop\jazon\books\sdl_game_programming\cd_files\files sdl 2.0\chapter_2\2_1_window\main.cpp
+	<SDL2\SDL.h>
+
