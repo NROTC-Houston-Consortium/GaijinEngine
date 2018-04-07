@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1522985280 source:c:\users\mrdorc\desktop\engine\testdll\main.cpp
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	"initGaijinEngine.h"
+	"GaijinEngineAudio.h"
+
+1522621342 c:\users\mrdorc\desktop\engine\testdll\initgaijinengine.h
+	<windows.h>
+	<SDL/SDL.h>
+	<string>
+	<iostream>
+
+1522983759 c:\users\mrdorc\desktop\engine\testdll\gaijinengineaudio.h
+	<windows.h>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+

@@ -1,0 +1,7 @@
+EXPORTS
+    initCreateWindow @1
+    initDateTime @2
+    initDebug @3
+    initSDL @4
+    initSDLQuit @5
+    initSetCaption @6

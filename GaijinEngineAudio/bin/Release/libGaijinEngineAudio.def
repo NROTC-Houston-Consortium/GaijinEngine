@@ -1,0 +1,11 @@
+EXPORTS
+    _ZN5Audio10audioCloseEv @1
+    audioDebug @2
+    delaySound @3
+    freeSound @4
+    haltSound @5
+    initAudio @6
+    loadSound @7
+    pauseSound @8
+    playSound @9
+    resumeSound @10

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1522621558 source:c:\users\mrdorc\desktop\engine\initgaijinengine\initgaijinengine.cpp
+	"initGaijinEngine.h"
+	<iostream>
+	<ctime>
+	<string>
+	<SDL/SDL.h>
+
+1522621342 c:\users\mrdorc\desktop\engine\initgaijinengine\initgaijinengine.h
+	<windows.h>
+	<SDL/SDL.h>
+	<string>
+	<iostream>
+
